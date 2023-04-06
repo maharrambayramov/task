@@ -1,0 +1,73 @@
+.navigation {
+    display: inline-flex;
+    width: 100%;
+    background-color: #212529;
+padding: auto;
+}
+
+.head {
+    color: white;
+}
+
+.navul {
+    color: gray;
+    list-style-type: none;
+    display: inline-flex;
+    text-align: end;
+
+
+}
+
+.welcome {
+    text-align: center;
+    background-color: #267dfd;
+    color: white;
+    font-size: 125%;
+    padding: 7em;
+}
+
+.btn {
+    padding: 0.5em;
+    font-size: 100%;
+    border-radius: 0.5rem;
+    border-color: white;
+}
+.about {
+    text-align: center;
+    margin: 1em;
+    padding: 4em;
+    margin-bottom: 0.5rem;
+    margin-top: 0;
+    font-weight: 500;
+    line-height: 1.2;
+}
+.name1{
+    width: 60%;
+    text-align: center;
+    margin: auto;
+}
+.service {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    background-color: #f8f9fa;
+    padding: 7em;
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+}
+.contact {
+    /* width: 60%; */
+    text-align: center;
+    margin: auto;
+    padding-top: 9em;
+}
+.name2{
+    width: 60%;
+    margin: auto;
+}
+.name3{
+    width: 60%;
+    text-align: center;
+    margin: auto;
+
+}
